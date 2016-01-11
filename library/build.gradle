@@ -27,7 +27,7 @@ dependencies {
     compile "com.android.support:support-annotations:${supportLibVersion}"
     compile "com.android.support:appcompat-v7:${supportLibVersion}"
     compile "com.android.support:design:${supportLibVersion}"
-    compile 'com.nineoldandroids:library:2.4.0+'
+    compile 'com.nineoldandroids:library:2.4.0'
 }
 
 publish {
